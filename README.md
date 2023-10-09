@@ -1,11 +1,7 @@
 ### Welcome to My profile! 👋 </br>
 #### My skills: </br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,ps,py,vscode" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,ps,py,vscode)](https://skillicons.dev)
 
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="50" height="50"/>&nbsp;
